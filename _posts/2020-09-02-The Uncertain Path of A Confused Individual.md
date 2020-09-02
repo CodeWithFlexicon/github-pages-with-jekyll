@@ -1,5 +1,5 @@
 ---
-title: The Uncertain Path of A Confused Individual
+title: "The Uncertain Path of A Confused Individual"
 date: 2020-09-02
 ---
 
